@@ -9,7 +9,7 @@ I love building interactive and mindnumbing cool stuff!!
 * 🌍  I'm based in Amherst, Massachusetts
 * 🖥️  See my portfolio at [My Website](http://ganatejadragneel.github.io/portfolio/)
 * ✉️  You can contact me at [akulaganateja@gmail.com](mailto:akulaganateja@gmail.com)
-* 🧠  I'm learning System Architecture
+* 🧠  I'm currently learning Shadcn/ui
 * 🤝  I'm open to collaborating on Development projects with Openai integration
 * ⚡  I'm secretly a Saiyan ..... can instantly transmit myself anywhere :D
 
