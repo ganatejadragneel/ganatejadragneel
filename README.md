@@ -11,7 +11,7 @@ I love building interactive and mindnumbing cool stuff!!
 * ✉️  You can contact me at [akulaganateja@gmail.com](mailto:akulaganateja@gmail.com)
 * 🧠  I'm learning System Architecture
 * 🤝  I'm open to collaborating on Development projects with Openai integration
-* ⚡  I'm secretly a Saiyan ..... can instantly transmit myself anywhere
+* ⚡  I'm secretly a Saiyan ..... can instantly transmit myself anywhere :D
 
 <a href="https://www.github.com/ganatejadragneel" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ganatejadragneel?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
@@ -35,7 +35,3 @@ src="https://img.shields.io/github/followers/ganatejadragneel?logo=github&style=
 <a href="http://www.github.com/ganatejadragneel"><img src="https://github-readme-stats.vercel.app/api?username=ganatejadragneel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="ganatejadragneel's GitHub stats" /></a>
 
 <a href="http://www.github.com/ganatejadragneel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ganatejadragneel&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="http://www.github.com/ganatejadragneel"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ganatejadragneel&bg_color=1c1917&color=14b8a6&line=6366f1&point=14b8a6&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ganatejadragneel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganatejadragneel&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
